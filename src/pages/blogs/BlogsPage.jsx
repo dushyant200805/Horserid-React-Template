@@ -1,4 +1,4 @@
-import BlogSection from "../../components/Common-Sections/blogsection";
+import BlogSection from "../../components/Common-Sections/BlogSection";
 import CommonBanner from "../../components/Common-Sections/CommonBanner";
 
 function BlogsPage() {
