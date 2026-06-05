@@ -1,6 +1,6 @@
 import CommonBanner from "../../components/Common-Sections/CommonBanner";
 import EmailAlertMessage from "../../components/Ui/EmailAlertMessage";
-import ContactFrom from "./contactFrom";
+import ContactFrom from "./ContactFrom";
 function ContactPage() {
   const BannerData = {
     "BannerHeading": "Contact",
