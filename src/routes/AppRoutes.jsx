@@ -5,9 +5,9 @@ import Home from "../pages/home/Home";
 import AboutPage from "../pages/about/AboutPage";
 import ServicePage from "../pages/services/ServicePage";
 import ServiceDetailsPage from "../pages/servicedetails/ServiceDetailsPage";
-import BlogsPage from "../pages/blogs/blogsPage";
+import BlogsPage from "../pages/blogs/BlogsPage";
 import BlogDetailsPage from "../pages/blogdetails/BlogDetailsPage";
-import ContactPage from "../pages/contact/contactPage"
+import ContactPage from "../pages/contact/ContactPage"
 import NotFound from "../pages/notfound/NotFound";
 import ScrollFunction from "../components/Common-Sections/ScrollFunction";
 
