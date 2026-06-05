@@ -1,0 +1,308 @@
+/* ==========================
+
+    Project Name : Horserid
+    Author Name : Lucid Themeslab
+    Store Link : https://www.templatemonster.com/store/lucid_themeslab/
+    Version : 1.0.0
+
+===============================*/
+@import url('https://fonts.googleapis.com/css2?family=Belleza&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet"');
+
+:root {
+  --primefont: "Montserrat", sans-serif;
+  --secondfont: "Belleza", sans-serif;
+  --tertiaryfont: "Shrikhand", serif;
+}
+[data-horserid-theme="light"] {
+
+
+/* Background Colors */
+  --body-bg: #ffffff;
+  --head-bg: #fffff6;
+  --banner-bg: 19, 44, 42; /* RGB of #132c2a */
+  --prime-bg: #834444;
+  --alt-bg: #132c2a;
+  --card-bg: #132c2a;
+  --card-alt-bg: #dbecea;
+  --card-alt-bg2: #132c2a33;
+  --dark-bg: #0c1a18;
+  --input-bg: #ffffff;
+   --icon-bg: #243c39;
+  --icon-alt-bg: #dbecea;
+  --footer-bg: #173432;
+  --footer-copy-bg: #132c2a;
+
+  /* Text Colors */
+  --nav-text: #132c2a;
+  --nav-alt-text: #8b4a4a;
+  --white-text: #ffffff;
+  --prime-text: #132c2a;
+  --second-text: #8b4a4a;
+  --head-text: #132c2a;
+  --para-text: #343434;
+  --icon-text: #ffffff;
+  --head-alt-text: #8b4a4a;
+  --para-alt-text: #4a4a4a;
+
+  --input-text: #111111;
+  --footer-text: #ffffff;
+  --footer-copy-text: #ffffff;
+
+  /* Buttons */
+  --prime-btn: #8b4a4a;
+  --prime-btn2: #7a3f3f;
+  --prime-btn-text: #ffffff;
+  --prime-btn-text2: #ffffff;
+  --prime-btn-border: #ffffff;
+  --prime-btn-border2: #7a3f3f;
+
+  /* Borders */
+  --input-border: #e6e6dc;
+  --prime-border: #8b4a4a;
+  --light-border: #c9c8c8;
+
+
+}
+
+[data-horserid-theme="dark"] {
+   /* Background Colors */
+  --body-bg: #0f0f0f;
+  --head-bg: #0a0f0f;
+  --banner-bg: 19, 44, 42;
+  --prime-bg: #8b4a4a;
+  --alt-bg: #0d1817;
+  --card-bg: #1b2e2c;
+  --card-alt-bg: #001d1a;
+  --dark-bg: #000000;
+  --input-bg: #243c39;
+  --icon-bg: #8b4a4a;
+  --icon-alt-bg: #fffff6;
+  --footer-bg: #132c2a;
+  --footer-copy-bg: #0f1f1d;
+
+  /* Text Colors */
+  --nav-text: #fffff6;
+  --nav-alt-text: #8b4a4a;
+  --white-text: #ffffff;
+  --prime-text: #132c2a;
+  --second-text: #c27b7b;
+  --head-text: #ffffff;
+  --para-text: #d6d6d6;
+  --icon-text: #ffffff;
+  --head-alt-text: #8b4a4a;
+  --para-alt-text: #bfbfbf;
+
+  --input-text: #ffffff;
+  --footer-text: #ffffff;
+  --footer-copy-text: #ffffff;
+
+
+  /* Buttons */
+  --prime-btn: #8b4a4a;
+  --prime-btn2: #7a3f3f;
+  --prime-btn-text: #ffffff;
+  --prime-btn-text2: #ffffff;
+  --prime-btn-border: #ffffff;
+  --prime-btn-border2: #7a3f3f;
+
+  /* Borders */
+  --input-border: #324d49;
+  --prime-border: #8b4a4a;
+  --light-border: #2c4441;
+
+}
+
+.body-bg {
+  background-color: var(--body-bg) !important;
+}
+
+.head-bg {
+  background-color: var(--head-bg) !important;
+}
+.head-bg-trans {
+  background: transparent;
+}
+
+.banner-bg {
+  background-color: var(--banner-bg) !important;
+}
+
+.prime-bg {
+  background-color: var(--prime-bg) !important;
+}
+.second-bg {
+  background-color: var(--second-bg) !important;
+}
+
+.alt-bg {
+  background-color: var(--alt-bg) !important;
+}
+.card-bg {
+  background-color: var(--card-bg) !important;
+}
+.dark-bg {
+  background-color: var(--dark-bg) !important;
+}
+.card-alt-bg {
+  background-color: var(--card-alt-bg) !important;
+}
+
+.input-bg {
+  background-color: var(--input-bg) !important;
+}
+
+.icon-bg {
+  background-color: var(--icon-bg) !important;
+}
+
+.footer-bg {
+  background-color: var(--footer-bg) !important;
+}
+
+.footer-copy-bg {
+  background-color: var(--footer-copy-bg) !important;
+}
+
+.nav-text {
+  color: var(--nav-text) !important;
+}
+.icon-text {
+  color: var(--icon-text) !important;
+}
+
+.white-text {
+  color: var(--white-text) !important;
+}
+
+.prime-text {
+  color: var(--prime-text) !important;
+}
+.second-text {
+  color: var(--second-text) !important;
+}
+
+.head-text {
+  color: var(--head-text) !important;
+}
+
+.para-text {
+  color: var(--para-text) !important;
+}
+
+.head-alt-text {
+  color: var(--head-alt-text) !important;
+}
+
+.para-alt-text {
+  color: var(--para-alt-text) !important;
+}
+
+.input-text {
+  color: var(--input-text) !important;
+}
+.input-border {
+  border: 1px solid var(--input-border) !important;
+}
+.footer-text {
+  color: var(--footer-text) !important;
+}
+
+.footer-copy-text {
+  color: var(--footer-copy-text) !important;
+}
+
+.prime-btn {
+  background-color: var(--prime-btn) !important;
+  color: var(--prime-btn-text) !important;
+  border: 1px solid var(--prime-border) !important;
+}
+
+.prime-btn:hover {
+  background-color: var(--prime-btn2) !important;
+  color: var(--prime-btn-text) !important;
+  border: 1px solid var(--prime-btn-border2) !important;
+}
+
+.second-btn {
+  background-color: var(--second-btn) !important;
+  color: var(--second-btn-text) !important;
+  border: 1px solid var(--second-border) !important;
+}
+
+.second-btn:hover {
+  background-color: var(--second-btn2) !important;
+  color: var(--second-btn-text) !important;
+  border: 1px solid var(--second-btn-border2) !important;
+}
+.prime-outline-btn {
+  background-color: transparent !important;
+  color: var(--prime-btn-text2) !important;
+  border: 1px solid var(--prime-border) !important;
+  text-transform: capitalize !important;
+}
+
+.prime-outline-btn:hover {
+  background-color: var(--prime-btn) !important;
+  color: var(--prime-btn-text) !important;
+  border: 1px solid var(--prime-border) !important;
+}
+
+.prime-outline-btn2 {
+  background-color: transparent;
+  color: var(--prime-btn-text2);
+  border: 1px solid var(--light-border);
+  text-transform: capitalize;
+}
+
+.prime-outline-btn2:hover {
+  background-color: var(--prime-btn);
+  color: var(--prime-btn-text);
+  border: 1px solid var(--prime-btn-border);
+}
+
+.prime-border {
+  border-color: var(--prime-border) !important;
+}
+
+.light-border {
+  border-color: var(--light-border) !important;
+}
+.prime-font {
+  font-family: var(--primefont) !important;
+}
+.second-font {
+  font-family: var(--secondfont) !important;
+}
+.tertiary-font {
+  font-family: var(--tertiaryfont) !important;
+}
+.backgound-blur {
+  backdrop-filter: blur(10px);
+}
+.fs-7 {
+  font-size: 18px;
+}
+.fs-8 {
+  font-size: 50px;
+}
+.fs-9 {
+  font-size: 12px;
+}
+.fs-10 {
+  font-size: 115px;
+}
+.mt-6{
+  margin-top: 85px;
+}
+.py-6{
+  padding: 115px 0;
+}
+.pb-6{
+    padding-bottom: 66px ;
+}
+.pt-6{
+   padding-top: 115px ;
+}
+.sm-text{
+  font-size: 15px;
+}
