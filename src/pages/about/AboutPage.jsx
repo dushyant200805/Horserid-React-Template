@@ -2,10 +2,10 @@ import CommonBanner from "../../components/Common-Sections/CommonBanner";
 import AboutSection from "../../components/Common-Sections/AboutSection";
 import AboutCardSection from "../../components/Common-Sections/AboutCardSection";
 import ParmotionCard from "../../components/Common-Sections/Parmotion";
-import ServiceSection from "../../components/Common-Sections/servicesection"
+import ServiceSection from "../../components/Common-Sections/ServiceSection"
 import FaqSection from "../../components/Common-Sections/FaqSection";
 import AwardSection from "../../components/Common-Sections/AwardSection";
-import BlogSection from "../../components/Common-Sections/blogsection";
+import BlogSection from "../../components/Common-Sections/BlogSection";
 import TestimonialSection from "../../components/Common-Sections/TestimonialSection";
 
 function AboutPage() {

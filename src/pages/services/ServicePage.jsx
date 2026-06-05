@@ -1,5 +1,5 @@
 import CommonBanner from "../../components/Common-Sections/CommonBanner";
-import ServiceSection from "../../components/Common-Sections/servicesection"
+import ServiceSection from "../../components/Common-Sections/ServiceSection"
 import WhatWeDo from "./whatWeDo";
 function ServicePage() {
   const BannerData = {
