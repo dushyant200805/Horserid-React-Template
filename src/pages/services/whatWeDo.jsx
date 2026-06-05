@@ -18,7 +18,7 @@ function WhatWeDo({noBg}) {
                             imperdiet dui porta</p>
                         <div className="ceo-card d-flex align-items-center gap-3 flex-wrap py-2">
                             <div className="image-container">
-                                <img src="/public/ceo-image.webp" alt=""/>
+                                <img src="/ceo-image.webp" alt=""/>
                             </div>
                             <div className="content ">
                                 <h3 className="fs-4 second-font fw-medium white-text text-capitalize">michelle Carol</h3>

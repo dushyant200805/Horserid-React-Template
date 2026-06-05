@@ -23,7 +23,7 @@ function ParmotionCard ({noBg}) {
                         Our Students We Have Installed Top Of The Range Facilities In All Our School Campus</p>
                     <div data-aos="zoom-in" data-aos-duration="1000">
                         <div className="parmotion-image mb-3">
-                            <img src="/public/parmotion-image-light.webp" alt="parmotion0-image"
+                            <img src="/parmotion-image-light.webp" alt="parmotion0-image"
                                 className="w-100 object-fit-contain" height="100"/>
                         </div>
                         <p className="white-text text-center text-capitalize fs-5 second-font">Preston Sanchez- CEO</p>

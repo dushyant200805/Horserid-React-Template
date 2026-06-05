@@ -15,7 +15,7 @@ function AboutSection({noBg}){
             <div className="row g-3 align-items-center">
                 <div className="col-xl-3 col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div className="about-image-container ">
-                        <img src="/public/about-image-1.webp" alt="about-image-1"/>
+                        <img src="/about-image-1.webp" alt="about-image-1"/>
                     </div>
                 </div>
                 <div className="col-xl-5 col-md-6" data-aos="fade-up" data-aos-duration="1200">
@@ -55,7 +55,7 @@ function AboutSection({noBg}){
                             ipsa excepturi est aperiam mollitia ut, ex in alias a dolorem incidunt facere reprehenderit.
                             Ratione sint alias sapiente ducimus.</p>
                         <div className="about-image-container-1">
-                            <img src="/public/about-image-2.webp" alt="" className="w-100 object-fit-cover"
+                            <img src="/about-image-2.webp" alt="" className="w-100 object-fit-cover"
                                 height="300"/>
                         </div>
                     </div>

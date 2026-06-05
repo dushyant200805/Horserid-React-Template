@@ -1,19 +1,19 @@
 function WhatWeDoCard() {
     const data = [
         {
-            image: "/public/coustom-icon-1.webp",
+            image: "/coustom-icon-1.webp",
             title: "The Racing Industry Course",
         },
         {
-            image: "/public/coustom-icon-2.webp",
+            image: "/coustom-icon-2.webp",
             title: "Horse Handling Training",
         },
         {
-            image: "/public/coustom-icon-3.webp",
+            image: "/coustom-icon-3.webp",
             title: "Cross-Country Riding Jump",
         },
         {
-            image: "/public/coustom-icon-4.webp",
+            image: "/coustom-icon-4.webp",
             title: "Hunters Stadium Jumping",
         },
     ];

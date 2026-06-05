@@ -62,7 +62,7 @@ function AwardSection ({noBg}) {
                                 <li className="splide__slide  rounded-4 ">
                                     <div className="award-card ">
                                         <div className="image-container">
-                                            <img src="/public/award-image-1.webp" alt="award-image-1"
+                                            <img src="/award-image-1.webp" alt="award-image-1"
                                                 className="w-100 object-fit-contain" height="200"/>
                                         </div>
                                         <div className="content ">
@@ -84,7 +84,7 @@ function AwardSection ({noBg}) {
                                                 2021</h3>
                                         </div>
                                         <div className="image-container  ">
-                                            <img src="/public/award-image-2.webp" alt="award-image-1"
+                                            <img src="/award-image-2.webp" alt="award-image-1"
                                                 className="w-100 object-fit-contain" height="200"/>
                                         </div>
                                     </div>
@@ -92,7 +92,7 @@ function AwardSection ({noBg}) {
                                 <li className="splide__slide  rounded-4 ">
                                     <div className="award-card ">
                                         <div className="image-container ">
-                                            <img src="/public/award-image-3.webp" alt="award-image-1"
+                                            <img src="/award-image-3.webp" alt="award-image-1"
                                                 className="w-100 object-fit-contain" height="200"/>
                                         </div>
                                         <div className="content ">
@@ -114,7 +114,7 @@ function AwardSection ({noBg}) {
                                                 2023</h3>
                                         </div>
                                         <div className="image-container  ">
-                                            <img src="/public/award-image-4.webp" alt="award-image-1"
+                                            <img src="/award-image-4.webp" alt="award-image-1"
                                                 className="w-100 object-fit-contain" height="200"/>
                                         </div>
                                     </div>

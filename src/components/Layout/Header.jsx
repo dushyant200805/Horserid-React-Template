@@ -67,17 +67,17 @@ function Header() {
                     <div className="container-xxl">
                         {/* <!-- Logo --> */}
                         <Link className="navbar-brand py-2" to="/">
-                            <img src="/public/logo-light.png" data-logo="light" className="object-fit-contain"
+                            <img src="/logo-light.png" data-logo="light" className="object-fit-contain"
                                 alt="logo-light" />
-                            <img src="/public/logo-dark.png" data-logo="dark" className="object-fit-contain" alt="logo-light" />
+                            <img src="/logo-dark.png" data-logo="dark" className="object-fit-contain" alt="logo-light" />
                         </Link>
 
                         {/* <!-- Offcanvas Menu --> */}
                         <div className="offcanvas h-100 offcanvas-end" tabIndex="-1" id="offcanvasNavbar2">
                             <div className="offcanvas-header justify-content-between head-bg">
-                                <img src="/public/logo-light.png" data-logo="light" className="object-fit-contain" width="120"
+                                <img src="/logo-light.png" data-logo="light" className="object-fit-contain" width="120"
                                     alt="logo-light" />
-                                <img src="/public/logo-dark.png" data-logo="dark" className="object-fit-contain" width="120"
+                                <img src="/logo-dark.png" data-logo="dark" className="object-fit-contain" width="120"
                                     alt="logo-light" />
                                 <button type="button" className="btn prime-btn lh-1 rounded-0 close" data-bs-dismiss="offcanvas"
                                     aria-label="Close">

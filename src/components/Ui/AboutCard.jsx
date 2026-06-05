@@ -1,25 +1,25 @@
 function AboutCard({noBg}) {
     const aboutCardData = [
         {
-            image: "/public/coustom-icon-1.webp",
+            image: "/coustom-icon-1.webp",
             title: "Specialized Classrooms",
             description: "Sem nulla pharetra diam sit amet nisl suscipit adipiscing. Consequat mauris nunc congue nisi.",
            
         },
         {
-            image: "/public/coustom-icon-2.webp",
+            image: "/coustom-icon-2.webp",
             title: "Activ-Track Gallop",
             description: "Sem nulla pharetra diam sit amet nisl suscipit adipiscing. Consequat mauris nunc congue nisi.",
            
         },
         {
-            image: "/public/coustom-icon-3.webp",
+            image: "/coustom-icon-3.webp",
             title: "Ultramodern Training",
             description: "Sem nulla pharetra diam sit amet nisl suscipit adipiscing. Consequat mauris nunc congue nisi.",
            
         },
         {
-            image: "/public/coustom-icon-3.webp",
+            image: "/coustom-icon-3.webp",
             title: "Brand New Courses",
             description: "Sem nulla pharetra diam sit amet nisl suscipit adipiscing. Consequat mauris nunc congue nisi.",
            

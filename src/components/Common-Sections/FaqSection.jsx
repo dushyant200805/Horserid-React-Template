@@ -171,7 +171,7 @@ function FaqSection ({noBg}) {
                 <div className="col-xl-5 d-flex justify-content-center">
                     <div className="position-relative d-inline-block">
                         <div className="faq-image-container">
-                            <img src="/public/faq-image-1.webp" alt="faq-image-1" className="w-100 object-fit-cover"/>
+                            <img src="/faq-image-1.webp" alt="faq-image-1" className="w-100 object-fit-cover"/>
                         </div>
                     </div>
                 </div>

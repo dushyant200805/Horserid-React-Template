@@ -50,9 +50,9 @@ function ContactFrom() {
                         <div className="col-lg-6" data-aos="fade-right" data-aos-duration="1000">
                             <div className="d-flex flex align-items-center gap-4">
                                 <div className="image-container">
-                                    <img src="/public/contact-image-1.webp" data-logo="light" alt=""
+                                    <img src="/contact-image-1.webp" data-logo="light" alt=""
                                         className="w-100 object-fit-contain" height="200" />
-                                    <img src="/public/contact-image-2.webp" data-logo="dark" alt=""
+                                    <img src="/contact-image-2.webp" data-logo="dark" alt=""
                                         className="w-100 object-fit-contain" height="200" />
                                 </div>
                                 <div>
@@ -73,7 +73,7 @@ function ContactFrom() {
                             <div className="col-lg-7">
                                 <div className="contact-container p-5 card-alt-bg">
                                     <div className="contact-image-container mb-3" data-aos="zoom-in" data-aos-duration="1000">
-                                        <img src="/public/contact-image-3.webp" alt="" className="w-100 object-fit-cover"
+                                        <img src="/contact-image-3.webp" alt="" className="w-100 object-fit-cover"
                                             height="280" />
                                     </div>
                                     <form action="send-email.php" method="POST" id="contactform" data-aos="fade-up" data-aos-duration="1000" onSubmit={handleSubmit(onSubmit)} noValidate>

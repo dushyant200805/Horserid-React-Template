@@ -142,7 +142,7 @@ a {
 .hero-banner {
   background:
     linear-gradient(#000000, rgba(0, 0, 0, 0.2)),
-    url("/public/banner-slide-1.webp");
+    url("/banner-slide-1.webp");
   background-position: top center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -301,7 +301,7 @@ a {
   border-radius: 50%;
   left: -25px;
   top: -35px;
-  background: url("/public/faq-image-2.webp");
+  background: url("/faq-image-2.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top center;
@@ -327,7 +327,7 @@ a {
   border-radius: 50%;
   right: 15px;
   bottom: 15px;
-  background: url("/public/faq-image-3.webp");
+  background: url("/faq-image-3.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top left;
@@ -438,7 +438,7 @@ a {
 /*########### about page ########## */
 .banner-section {
   background:
-    linear-gradient(#8b4a4a, rgba(0, 0, 0, 0.2)), url("/public/banner.webp");
+    linear-gradient(#8b4a4a, rgba(0, 0, 0, 0.2)), url("/banner.webp");
   background-position: top center;
   background-size: cover;
   background-repeat: no-repeat;

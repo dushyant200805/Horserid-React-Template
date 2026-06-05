@@ -2,8 +2,8 @@
 export const BlogData = [
     {
         id: 1,
-        image1: "/public/blog-image-1.webp",
-        image2:"/public/blog-detail-image-1.webp",
+        image1: "/blog-image-1.webp",
+        image2:"/blog-detail-image-1.webp",
         date: `January 12, ${year}`,
         title: "Advice On Horse Racing Betting",
         description1: "Gravida enim vitae, duis sit amet urna cursus, malesuada felis eu, efficitur nibh. Nullam vitae nibh faucibus, iaculis felis.",
@@ -20,8 +20,8 @@ export const BlogData = [
     },
     {
     id: 2,
-    image1: "/public/blog-image-2.webp",
-    image2: "/public/blog-detail-image-2.webp",
+    image1: "/blog-image-2.webp",
+    image2: "/blog-detail-image-2.webp",
     date: `February 05, ${year}`,
     title: "Professional Horse Training Programs",
     description1: "Enhance your riding skills with expert-led horse training programs tailored for beginners and professionals.",
@@ -38,8 +38,8 @@ export const BlogData = [
 },
 {
     id: 3,
-    image1: "/public/blog-image-3.webp",
-    image2: "/public/blog-image-1.webp",
+    image1: "/blog-image-3.webp",
+    image2: "/blog-image-1.webp",
     date: `March 18, ${year}`,
     title: "Horse Riding Lessons",
     description1: "Learn horse riding with our step-by-step guided lessons designed for all age groups.",
@@ -56,8 +56,8 @@ export const BlogData = [
 },
 {
     id: 4,
-    image1: "/public/blog-image-4.webp",
-    image2: "/public/blog-image-2.webp",
+    image1: "/blog-image-4.webp",
+    image2: "/blog-image-2.webp",
     date: `April 10, ${year}`,
     title: "Horse Care & Grooming",
     description1: "Professional horse care services ensuring health, hygiene, and overall well-being of horses.",
@@ -74,8 +74,8 @@ export const BlogData = [
 },
 {
     id: 5,
-    image1: "/public/blog-image-5.webp",
-    image2: "/public/blog-detail-image-2.webp",
+    image1: "/blog-image-5.webp",
+    image2: "/blog-detail-image-2.webp",
     date: `May 22, ${year}`,
     title: "Event & Competition Management",
     description1: "We organize professional horse racing events and competitions with complete management support.",
@@ -92,8 +92,8 @@ export const BlogData = [
 },
 {
     id: 6,
-    image1: "/public/blog-image-6.webp",
-    image2: "/public/blog-detail-image-1.webp",
+    image1: "/blog-image-6.webp",
+    image2: "/blog-detail-image-1.webp",
     date: `June 14, ${year}`,
     title: "Horse Rental Services",
     description1: "Rent well-trained horses for events, training, or personal riding experiences.",

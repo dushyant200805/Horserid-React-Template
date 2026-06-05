@@ -56,7 +56,7 @@ function Footer() {
                     <div className="row align-items-center border-bottom light-border py-5">
                         <div className="col-sm-6 mx-auto d-flex justify-content-center ">
                             <a href="index.html">
-                                <img src="/public/logo-dark.png" className="object-fit-contain" width="120"
+                                <img src="/logo-dark.png" className="object-fit-contain" width="120"
                                     alt="logo-light" />
                             </a>
                         </div>
